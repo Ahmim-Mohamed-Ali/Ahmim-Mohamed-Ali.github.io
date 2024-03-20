@@ -313,7 +313,7 @@ footer .colonne p:hover {
     text-align: center;
 
 }
-.section-header h2 {color:#F45B69;}
+.section-header h2 {text-decoration:underline;color:#F45B69;}
 
 .grid{
     display:flex;
